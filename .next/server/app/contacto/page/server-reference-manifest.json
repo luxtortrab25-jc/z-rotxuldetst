@@ -1,0 +1,16 @@
+{
+  "node": {
+    "4082a0284ca1e71ed53539dec967724072968fc6ba": {
+      "workers": {
+        "app/contacto/page": {
+          "moduleId": "[project]/.next-internal/server/app/contacto/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/lib/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/contacto/page": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}
