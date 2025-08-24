@@ -8,17 +8,17 @@ import { cn } from '@/lib/utils';
 const testimonials = [
   {
     quote: "El nivel de detalle es simplemente increíble. Mi coche nunca se había visto tan bien. ¡Servicio de primera!",
-    author: "Carlos R.",
+    author: "Carlos Ramírez",
     rating: 5,
   },
   {
     quote: "Profesionalismo y pasión en cada paso. La aplicación del PPF fue perfecta. Totalmente recomendados.",
-    author: "Sofia C.",
+    author: "Sofia Castañeda",
     rating: 5,
   },
   {
     quote: "Superaron mis expectativas. El tratamiento cerámico dejó la pintura con un brillo espectacular y profundo.",
-    author: "Javier M.",
+    author: "Javier Mendoza",
     rating: 5,
   },
 ];
