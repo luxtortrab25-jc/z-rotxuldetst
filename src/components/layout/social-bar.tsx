@@ -7,7 +7,7 @@ import Image from 'next/image';
 const socialLinks = [
   {
     name: 'WhatsApp',
-    href: 'https://wa.me/message/7OL3CGYB4GMZE1',
+    href: 'https://api.whatsapp.com/send?phone=5215549361690&text=Hola%20%F0%9F%91%8B%20%0ATengo%20un%20%5Bauto%5D%20y%20me%20interesa%20el%20servicio%20de%20%5Bnombre%20del%20servicio%5D.%20%C2%BFMe%20pueden%20dar%20m%C3%A1s%20informaci%C3%B3n%3F',
     icon: (
       <Image
         src="https://i.postimg.cc/pVCpD0Bd/whatsapp-icono-32.png"
