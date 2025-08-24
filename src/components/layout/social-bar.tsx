@@ -46,7 +46,7 @@ const socialLinks = [
   },
   {
     name: 'TikTok',
-    href: 'https://www.tiktok.com/@luxtordetailstudio?_t=ZS-8z7OJ7XFiGA&_r=1',
+    href: 'https://www.tiktok.com/@luxtordetailstudio',
     icon: (
       <Image
         src="https://i.postimg.cc/NMYR0KQC/tiktok-icono-32.png"
