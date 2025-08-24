@@ -92,7 +92,7 @@ export default function Header() {
             )
           )}
            <Button asChild size="lg" className="bg-accent text-accent-foreground hover:bg-accent/90 rounded-full text-lg">
-            <Link href="https://api.whatsapp.com/message/7OL3CGYB4GMZE1?autoload=1&app_absent=0" target="_blank" rel="noopener noreferrer">Contactar</Link>
+            <Link href="https://api.whatsapp.com/send?phone=5215549361690&text=Hola%20%F0%9F%91%8B%20%0ATengo%20un%20%5Bauto%5D%20y%20me%20interesa%20el%20servicio%20de%20%5Bnombre%20del%20servicio%5D.%20%C2%BFMe%20pueden%20dar%20m%C3%A1s%20informaci%C3%B3n%3F" target="_blank" rel="noopener noreferrer">Contactar</Link>
           </Button>
         </nav>
 
@@ -124,7 +124,7 @@ export default function Header() {
                   </Link>
                 ))}
                  <Button asChild className="bg-accent text-accent-foreground hover:bg-accent/90 rounded-full">
-                  <Link href="https://api.whatsapp.com/message/7OL3CGYB4GMZE1?autoload=1&app_absent=0" target="_blank" rel="noopener noreferrer">Contactar</Link>
+                  <Link href="https://api.whatsapp.com/send?phone=5215549361690&text=Hola%20%F0%9F%91%8B%20%0ATengo%20un%20%5Bauto%5D%20y%20me%20interesa%20el%20servicio%20de%20%5Bnombre%20del%20servicio%5D.%20%C2%BFMe%20pueden%20dar%20m%C3%A1s%20informaci%C3%B3n%3F" target="_blank" rel="noopener noreferrer">Contactar</Link>
                 </Button>
               </nav>
             </SheetContent>
