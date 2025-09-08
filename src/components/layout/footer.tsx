@@ -5,9 +5,6 @@ export default function Footer() {
         <p className="text-center text-sm text-muted-foreground">
           © {new Date().getFullYear()} Luxtor Detail Studios. Todos los derechos reservados.
         </p>
-        <p className="mt-2 text-center text-sm text-muted-foreground">
-          Este sitio web pertenece a Raquel Juárez Ugalde
-        </p>
       </div>
     </footer>
   );
