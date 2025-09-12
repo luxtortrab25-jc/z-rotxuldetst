@@ -130,6 +130,7 @@ export default function Header() {
             </SheetContent>
           </Sheet>
         </div>
+<p class="mt-2 text-center text-sm text-muted-foreground">Este sitio web pertenece a Raquel Juárez Ugalde</p>
       </div>
     </header>
   );
