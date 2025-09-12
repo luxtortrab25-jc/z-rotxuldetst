@@ -131,6 +131,11 @@ export default function Header() {
           </Sheet>
         </div>
       </div>
+            <div className="w-full bg-black py-1">
+        <p className="text-center text-xs text-muted-foreground">
+          Este sitio web pertenece a Raquel Juárez Ugalde
+        </p>
+      </div>
     </header>
   );
 }
